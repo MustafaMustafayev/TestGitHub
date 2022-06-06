@@ -29,7 +29,6 @@ namespace git_test.Controllers
         }
 
 
-
         public IActionResult User()
         {
             return View();
