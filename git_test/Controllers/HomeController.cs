@@ -23,7 +23,12 @@ namespace git_test.Controllers
             return View();
         }
 
-     
+        public IActionResult Role()
+        {
+            return View();
+        }
+
+
 
         public IActionResult User()
         {
